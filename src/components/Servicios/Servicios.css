@@ -1,0 +1,62 @@
+.contenedor_nuestros_servicios{
+    width: 100%;
+    height: 1957px;
+    
+    
+}
+.titulo_servicio{
+    text-align: center;
+}
+.contenedor_ambulancia{
+    display: flex;
+    justify-content: center;
+    
+    width: 100%;
+    height: 596px;
+    
+}
+.img_ambulancia{
+    width: 500px;
+    height: 400px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.inf_ambulancia{
+    width: 50%;
+    height: 450px;
+    
+}
+.contenedor_medicos{
+    width: 100%;
+    height: 652px;
+    display: flex;
+    justify-content: center;
+    
+}
+.img_medico{
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+}
+.inf_medico{
+    width: 50%;
+    height: 450px;
+}
+.contenedor_desastres{
+    width: 100%;
+    height: 652px;
+    display: flex;
+    justify-content: center;
+    
+}
+.img_desastres{
+    width: 500px;
+    height: 400px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.inf_desastres{
+    width: 50%;
+    height: 450px;
+    
+}
